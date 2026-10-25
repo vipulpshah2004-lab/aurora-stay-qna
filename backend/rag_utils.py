@@ -28,7 +28,13 @@ def generate(query, retrieved_chunks,model) -> str:
     1. Use only information explicitly supported by the retrieved policy information.
     2. Do not use outside knowledge, assumptions, or information not present in the retrieved policy information.
     3. Include all relevant information needed to answer the query completely.
-    4. Do not omit important conditions, exclusions, limitations, exceptions, or coverage details.
+    4. Preserve all relevant conditions, exclusions, limitations, and exceptions.
+   If the source labels information as a training example, sample, or
+   illustrative rate, explicitly state that qualification in the answer.
+   If it requires staff to verify the property profile before quoting a
+   guest, include that requirement whenever using that information.
+For property-specific questions, use facts for the requested property.
+Do not substitute another property's prices or policies.   
     5. Focus only on information directly relevant to the user's query.
     6. Do not include unrelated information from the retrieved policy information.
     7. Answer the user's specific question directly and ensure the response addresses what was asked.
