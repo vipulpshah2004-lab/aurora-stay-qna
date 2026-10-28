@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Property-specific matrix. For training examples only. Verify the property profile before quoting a guest.\nProperty: ASH-ATL Midtown, Atlanta GA\nCheck-in / out: 3:00 PM / 11:00 AM\nParking: Self parking, $28 per night\nPets: $75 per stay; 2 pets max\nBreakfast: $19 adult, $10 child",
+    "source": "Data/aurorastay_room_and_property_information.pdf"
+  },
+  {
+    "text": "Property-specific matrix. For training examples only. Verify the property profile before quoting a guest.\nProperty: ASH-BOS Harbor, Boston MA\nCheck-in / out: 4:00 PM / 11:00 AM\nParking: Valet only, $65 per night\nPets: No pets except service animals\nBreakfast: Included with room",
+    "source": "Data/aurorastay_room_and_property_information.pdf"
+  },
+  {
+    "text": "Property-specific matrix. For training examples only. Verify the property profile before quoting a guest.\nProperty: ASH-CHI Loop, Chicago IL\nCheck-in / out: 3:00 PM / 12:00 PM\nParking: Self parking, $42 per night\nPets: $50 per night, $150 stay cap\nBreakfast: $22 per person",
+    "source": "Data/aurorastay_room_and_property_information.pdf"
+  },
+  {
+    "text": "Property-specific matrix. For training examples only. Verify the property profile before quoting a guest.\nProperty: ASH-DEN Union, Denver CO\nCheck-in / out: 4:00 PM / 11:00 AM\nParking: Garage, $35 per night\nPets: $75 per stay; 2 pets max\nBreakfast: $18 per person",
+    "source": "Data/aurorastay_room_and_property_information.pdf"
+  },
+  {
+    "text": "Property-specific matrix. For training examples only. Verify the property profile before quoting a guest.\nProperty: ASH-MIA Brickell, Miami FL\nCheck-in / out: 4:00 PM / 11:00 AM\nParking: Valet, $55 per night\nPets: $100 per stay; 2 pets max\nBreakfast: $24 per person",
+    "source": "Data/aurorastay_room_and_property_information.pdf"
+  },
+  {
+    "text": "Property-specific matrix. For training examples only. Verify the property profile before quoting a guest.\nProperty: ASH-SEA Pike, Seattle WA\nCheck-in / out: 3:00 PM / 12:00 PM\nParking: No on-site parking; partner garage, $38 per night\nPets: $75 per stay; 2 pets max\nBreakfast: Included with room",
+    "source": "Data/aurorastay_room_and_property_information.pdf"
+  }
+]
